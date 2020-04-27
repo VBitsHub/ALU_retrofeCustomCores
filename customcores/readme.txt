@@ -10,7 +10,6 @@ Example of cores
 04/12/2020  06:31 PM        66,622,216 mame2010_libretro_LightGunUpdate.so
 04/24/2020  11:13 AM       168,383,840 mame2016_libretro.so
 02/02/2020  11:53 AM           973,048 mednafen_supergrafx_libretro.so
-12/10/2019  10:54 PM           998,064 mgba_libretro.so
 02/01/2020  06:46 PM         1,925,072 nestopia_libretro.so
 04/02/2020  01:24 PM           106,176 o2em_libretro_alu_alpha-1.so
 04/18/2020  01:02 PM         9,667,864 puae_libretro_alu_alpha-2.so
