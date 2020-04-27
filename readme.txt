@@ -41,7 +41,7 @@ retrofe/
 
 
 
-Reference names to use in [name of game].conf depending on emulator
+Reference names to use in /retrofe/collections/[system]/launchers/[name of game].conf depending on emulator
 ----------------------------------------------------------------------------------------------------------------------------
 Conf call			Emulator						Filename
 ----------------------------------------------------------------------------------------------------------------------------
