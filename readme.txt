@@ -51,7 +51,7 @@ C64				Commodore 64						vice_x64_libretro_alu_alpha-1.so
 Coleco				Colecovision						cv_libretro.so
 fbalpha2012			Final burn alpha 2012 (various consoles)		fbalpha2012_libretro.so
 fbalpha2012_neogo		Final burn alpha 2012 neogeo				fbalpha2012_neogeo_libretro.so
-gba				Gameboy Advance / Gameboy / Gameboy Color		mgba_libretro.so
+gba				Gameboy Advance / Gameboy / Gameboy Color		mednafen_gba_libretro.so
 genesis				Sega genesis / Master system				genesis_plus_gx_libretro.so
 Mame2003Plus_lg			Mame2003Plus light gun update				mame2003_plus_libretro_lg.so
 Mame2010			Mame2010 (built-in)
