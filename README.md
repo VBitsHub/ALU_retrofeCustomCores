@@ -2,7 +2,7 @@
 
 Update 4/27/2020
 - Includes new RetroFE release 4/27/2020
-- script now doesn't require users to add files to the uce. It will automatically copy over the file
+- New script file added and removed all the [console].sh. It will automatically copy over the file
   defined in the conf file to make it easier to use.
   
 
