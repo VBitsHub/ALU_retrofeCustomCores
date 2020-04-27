@@ -1,5 +1,11 @@
 # ALU_retrofeCustomCores
 
+Update 4/27/2020
+- Includes new RetroFE release 4/27/2020
+- script now doesn't require users to add files to the uce. It will automatically copy over the file
+  defined in the conf file to make it easier to use.
+  
+
 How to use:
 -----------------------------------------------------------------------------------------------------------------
 
