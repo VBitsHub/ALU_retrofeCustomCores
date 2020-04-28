@@ -4,8 +4,7 @@ Update 4/27/2020
 - Includes new RetroFE release 4/27/2020
 - New script file added and removed all the [console].sh. It will automatically copy over the file
   defined in the conf file to make it easier to use.
-- If you are using CoinOPS next download the /retrofe/collections folder as well. For Arcadia 6 low spec, you just
-  need to add the customlauncher per game.
+- If you are using CoinOPS next download the /retrofe/collections folder as well. For Arcadia 6 low spec (you do not need that folder), you just need to add the customlauncher per game.
   
 How to use:
 -----------------------------------------------------------------------------------------------------------------
