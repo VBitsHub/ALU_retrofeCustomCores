@@ -78,7 +78,7 @@ The shell script will look for the emulator name and copy it to the temp folder 
 ------------------------------------------------------------------------------------------------------------------------
 1. Copy the emulator to [drive]/customcores folder
 2. Create a new [emulator].conf file in the /retrofe/launchers folder
-3. Edit the file and insert the following. Replace [filename] with the emulator filename [for example: emulator.so]
+3. Edit the file and insert the following. Replace [filename] with the emulator filename [for example: emulator.so] located in the customcore folder.
 
 executable = runCustomCore.sh
 arguments = /emulator/retroplayer /tmp/[filename] "%ITEM_FILEPATH%"
