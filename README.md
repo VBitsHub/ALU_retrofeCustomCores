@@ -1,5 +1,9 @@
 # ALU_retrofeCustomCores
 
+Update 4/29/2020
+ - Added support for bezels
+ - place bezels in /retrofe/bezels folder
+
 Update 4/27/2020
 - Includes new RetroFE release 4/27/2020
 - New script file added and removed all the [console].sh. It will automatically copy over the file
