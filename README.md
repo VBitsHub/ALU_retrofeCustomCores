@@ -3,6 +3,7 @@
 Update 5/1/2020
  - Added update retrofe core (5/1/2020)
  - Added support for FCEUMM, Mame2010 Samples and sounds, Atari 800, Mame2016, Mame2003 Dual joysticks, Sega CD, Turbo Grafx CD
+ - Added support for ScummVM
 
 Update 4/30/2020
  - Added update retrofe core (4/29/2020)
@@ -88,6 +89,7 @@ Reference names to use in [name of game].conf depending on emulator
 | Mame2003DualJoy      | Mame 2003 Dual Joysticks                 | mame2003_plus_libretro_custom_Dual_Joystick.so |
 | SegaCD               | Picodrive (SegaCD)                       | picodrive_libretro.so                          |
 | TGCD                 | PCE Fast (Turbo GrafxCD)                 | mednafen_pce_fast_libretro.so                  |
+| ScummVM              | ScummVM (Dos)                            | scummvm_libretro.so, libm.so.6                 |
 |                      |                                          |                                                |
 |                      |                                          |                                                |
 
@@ -115,3 +117,15 @@ Bezels
 Adding Bezels (Scripts will check bezels folder for matching title)
 -------------------------------------------------------------------------------------------------------------------------
 Make sure the file naming schema follows your rom and images. It is also case sensitive. Place png bezel into the /retrofe/bezels folder.
+
+
+
+ScummVM
+-------------------------------------------------------------------------------------------------------------------------
+Important notes
+-------------------------------------------------------------------------------------------------------------------------
+To get ScummVM working follow the standard steps need to add a game. In the roms section add the title of the game with the bat ending.
+
+IE. Space Quest 1.bat
+
+That's it, have fun.
