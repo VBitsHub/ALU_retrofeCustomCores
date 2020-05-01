@@ -62,31 +62,34 @@ retrofe/
 
 
 Reference names to use in [name of game].conf depending on emulator
-----------------------------------------------------------------------------------------------------------------------------
-Conf call			Emulator						Filename
-----------------------------------------------------------------------------------------------------------------------------
-Amiga				Amiga							puae_libretro_alu_alpha-2.so
-AtariLynx			AtariLynx						handy_libretro.so
-C64				Commodore 64						vice_x64_libretro_alu_alpha-1.so
-Coleco				Colecovision						cv_libretro.so
-fbalpha2012			Final burn alpha 2012 (various consoles)		fbalpha2012_libretro.so
-fbalpha2012_neogo		Final burn alpha 2012 neogeo				fbalpha2012_neogeo_libretro.so
-gba				Gameboy Advance / Gameboy / Gameboy Color		mednafen_gba_libretro.so
-genesis				Sega genesis / Master system				genesis_plus_gx_libretro.so
-Mame2003Plus_lg			Mame2003Plus light gun update				mame2003_plus_libretro_lg.so
-Mame2010			Mame2010 (built-in)
-Mame2010_lg			Mame2010 light gun update				mame2010_libretro_LightGunUpdate.so
-nes				Nestopia						nestopia_libretro.so
-nesBI				Quicknes (built-in)					
-Odyssey2			Odyssey 2						o2em_libretro_alu_alpha1.so			
-snes				Super Nintendo (snes9x)					snes9x_libretro.so
-fceumm				Nintendo Entertainment System				fceumm_libretro.so
-Mame2010SamplesSaves		Mame2010 with samples and save support			mame2010_libretro_samplesandsaves.so
-Atari 800			Atari 800						atari800_libretro.so
-Mame2016			Mame2016						mame2016_libretro.so
-Mame2003DualJoy			Mame2003 Dual Joysticks					mame2003_plus_libretro_custom_Dual_Joystick.so
-SegaCD				Picodrive (Sega CD)					picodrive_libretro.so
-TGCD				PCE Fast (Turbo Grafx CD)				mednafen_pce_fast_libretro.so
+| Conf Call            | Emulator                                 | Filename                                       |
+|----------------------|------------------------------------------|------------------------------------------------|
+| Mame2003Plus         | Mame 2003 Plus (built-in)                |                                                |
+| Amiga                | Amiga                                    | puae_libretro_alu_alpha-2.so                   |
+| AtariLynx            | Atari Lynx                               | handy_libretro.so                              |
+| C64                  | Commodore 64                             | vice_x64_libretro_alu_alpha-1.so               |
+| Coleco               | Colecovision                             | cv_libretro.so                                 |
+| fbalpha2012          | Final burn alpah 2012 (various consoles) | fbalpha2012_libretro.so                        |
+| fbalpha_neogeo       | Final burn alpha 2012 neogeo             | fbalpha2012_neogeo_libretro.so                 |
+| gba                  | Gameboy Advance                          | mednafen_gba_libretro.so                       |
+| genesis              | Sega Genesis / Master System             | genesis_plus_gx_libretro.so                    |
+| Mame2003Plus_lg      | Mame 2003 Plus Light Gun Update          | mame2003_plus_libretro_lg.so                   |
+| TG16                 | Turbo Grafx 16                           | mednafen_supergrafx_libretro.so                |
+| Mame2010             | Mame 2010 (built-in)                     |                                                |
+| Mame2010_lg          | Mame 2010 Light gun                      | mame2010_libretro_LightGunUpdate.so            |
+| nes                  | Nestopia                                 | nestopia_libretro.so                           |
+| nesBI                | Quicknes (built-in) NES                  |                                                |
+| Odyssey2             | Odyssey 2                                | o2em_libretro_alu_alpha1.so                    |
+| snes                 | snes9x Super Nintendo                    | snes9x_libretro.so                             |
+| fceumm               | FCEUMM (Nes)                             | fceumm_libretro.so                             |
+| Mame2010SamplesSaves | Mame 2010 Samples and Saves              | mame2010_libretro_samplesandsaves.so           |
+| Atari 800            | Atari 800                                | atari800_libretro.so                           |
+| Mame2016             | Mame 2016                                | mame2016_libretro.so                           |
+| Mame2003DualJoy      | Mame 2003 Dual Joysticks                 | mame2003_plus_libretro_custom_Dual_Joystick.so |
+| SegaCD               | Picodrive (SegaCD)                       | picodrive_libretro.so                          |
+| TGCD                 | PCE Fast (Turbo GrafxCD)                 | mednafen_pce_fast_libretro.so                  |
+|                      |                                          |                                                |
+|                      |                                          |                                                |
 
 
 
