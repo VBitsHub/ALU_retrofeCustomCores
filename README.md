@@ -1,5 +1,12 @@
 # ALU_retrofeCustomCores
 
+Update 5/1/2020
+ - Added update retrofe core (5/1/2020)
+
+Update 4/30/2020
+ - Added update retrofe core (4/29/2020)
+ - Optimized code for runCustomCore.sh and runlauncher.sh
+
 Update 4/29/2020
  - Added support for bezels
  - place bezels in /retrofe/bezels folder
@@ -92,3 +99,8 @@ arguments = /emulator/retroplayer /tmp/[filename] "%ITEM_FILEPATH%"
 
 
 
+Bezels
+-------------------------------------------------------------------------------------------------------------------------
+Adding Bezels
+-------------------------------------------------------------------------------------------------------------------------
+Make sure the file naming schema follows your rom and images. It is also case sensitive. Place png bezel into the /retrofe/bezels folder.
