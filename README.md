@@ -80,6 +80,13 @@ nes				Nestopia						nestopia_libretro.so
 nesBI				Quicknes (built-in)					
 Odyssey2			Odyssey 2						o2em_libretro_alu_alpha1.so			
 snes				Super Nintendo (snes9x)					snes9x_libretro.so
+fceumm				Nintendo Entertainment System				fceumm_libretro.so
+Mame2010SamplesSaves		Mame2010 with samples and save support			mame2010_libretro_samplesandsaves.so
+Atari 800			Atari 800						atari800_libretro.so
+Mame2016			Mame2016						mame2016_libretro.so
+Mame2003DualJoy			Mame2003 Dual Joysticks					mame2003_plus_libretro_custom_Dual_Joystick.so
+SegaCD				Picodrive (Sega CD)					picodrive_libretro.so
+TGCD				PCE Fast (Turbo Grafx CD)				mednafen_pce_fast_libretro.so
 
 
 
