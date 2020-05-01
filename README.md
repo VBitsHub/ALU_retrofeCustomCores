@@ -102,6 +102,6 @@ arguments = /emulator/retroplayer /tmp/[filename] "%ITEM_FILEPATH%"
 
 Bezels
 -------------------------------------------------------------------------------------------------------------------------
-Adding Bezels
+Adding Bezels (Scripts will check bezels folder for matching title)
 -------------------------------------------------------------------------------------------------------------------------
 Make sure the file naming schema follows your rom and images. It is also case sensitive. Place png bezel into the /retrofe/bezels folder.
