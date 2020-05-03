@@ -110,6 +110,8 @@ arguments = /emulator/retroplayer /tmp/[filename] "%ITEM_FILEPATH%"
 4. Save the file.
 5. Now you can reference this file [without the conf] in the custom launcher for the game.
 
+*Note Some emulators may require require a separate executable to launch as it requires specific definitions that aren't in runCustomCore.sh
+ScummVM has it's own executable as it requires extra definitions. It can be called using the runScummVM.sh
 
 
 Bezels
