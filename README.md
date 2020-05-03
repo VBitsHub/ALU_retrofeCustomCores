@@ -90,9 +90,9 @@ Reference names to use in [name of game].conf depending on emulator
 | SegaCD               | Picodrive (SegaCD)                       | picodrive_libretro.so                          |
 | TGCD                 | PCE Fast (Turbo GrafxCD)                 | mednafen_pce_fast_libretro.so                  |
 | ScummVM              | ScummVM (Dos)                            | scummvm_libretro.so, libm.so.6                 |
+| PC Engine            | PC Engine                                | mednafen_supergrafx_libretro.so                |
 |                      |                                          |                                                |
 |                      |                                          |                                                |
-
 
 
 
@@ -124,8 +124,36 @@ ScummVM
 -------------------------------------------------------------------------------------------------------------------------
 Important notes
 -------------------------------------------------------------------------------------------------------------------------
-To get ScummVM working follow the standard steps need to add a game. In the roms section add the title of the game with the bat ending.
+To get ScummVM working follow the standard steps needed to add a game. In the roms section add the title of the game with the bat ending.
+Place data files in /content/ports/ScummVM
 
 IE. Space Quest 1.bat
 
 That's it, have fun.
+
+
+
+Sega CD
+-------------------------------------------------------------------------------------------------------------------------
+Important notes
+-------------------------------------------------------------------------------------------------------------------------
+To get Sega CD working follow the standard steps needed to add a game. In the roms sections copy the .cue file into there.
+Place data files in /content/consoles/Sega - Sega CD
+
+
+PC Engine CD
+-------------------------------------------------------------------------------------------------------------------------
+Important notes
+-------------------------------------------------------------------------------------------------------------------------
+To get PC Engine working follow the standard steps needed to add a game. In the roms sections copy the .cue file into there.
+Place data files in /content/consoles/NEC - PC Engine CD
+
+
+Turbografx CD
+-------------------------------------------------------------------------------------------------------------------------
+Important notes
+-------------------------------------------------------------------------------------------------------------------------
+To get Turbografx CD working follow the standard steps needed to add a game. In the roms sections copy the .cue file into there.
+Place data files in /content/consoles/
+
+
