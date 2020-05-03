@@ -1,5 +1,8 @@
 # ALU_retrofeCustomCores
 
+Update 5/2/2020
+ - Minor Updates
+
 Update 5/1/2020
  - Added update retrofe core (5/1/2020)
  - Added support for FCEUMM, Mame2010 Samples and sounds, Atari 800, Mame2016, Mame2003 Dual joysticks, Sega CD, Turbo Grafx CD
