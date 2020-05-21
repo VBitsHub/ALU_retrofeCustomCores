@@ -1,4 +1,13 @@
-# ALU_retrofeCustomCores
+# ALU_retrofeCustomCores To be Used Directly from the AtGames Legends Ultimate through USB Non-Root
+
+Update 5/21/2020
+ - Minor Tweaks
+
+Update 5/5/2020
+ - Updates to layout to make it slightly faster
+
+Update 5/2/2020
+ - Minor Updates
 
 Update 5/1/2020
  - Added update retrofe core (5/1/2020)
@@ -81,7 +90,8 @@ Reference names to use in [name of game].conf depending on emulator
 | nes                  | Nestopia                                 | nestopia_libretro.so                           |
 | nesBI                | Quicknes (built-in) NES                  |                                                |
 | Odyssey2             | Odyssey 2                                | o2em_libretro_alu_alpha1.so                    |
-| snes                 | snes9x Super Nintendo                    | snes9x_libretro.so                             |
+| SNES                 | Snes                                     | snes_mtfaust-arm64-cortex-53.so                |
+| snes9x               | snes9x Super Nintendo                    | snes9x_libretro.so                             |
 | fceumm               | FCEUMM (Nes)                             | fceumm_libretro.so                             |
 | Mame2010SamplesSaves | Mame 2010 Samples and Saves              | mame2010_libretro_samplesandsaves.so           |
 | Atari 800            | Atari 800                                | atari800_libretro.so                           |
