@@ -1,4 +1,4 @@
-# ALU_retrofeCustomCores To be Used Directly from the AtGames Legends Ultimate through USB Non-Root
+# ALU_retrofeCustomCores and CoinOPS To be Used Directly from the AtGames Legends Ultimate through USB Non-Root
 
 Update 5/21/2020
  - Minor Tweaks
