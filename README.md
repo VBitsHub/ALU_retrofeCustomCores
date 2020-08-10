@@ -1,4 +1,4 @@
-# ALU_retrofeCustomCores and CoinOPS To be Used Directly from the AtGames Legends Ultimate through USB Non-Root
+# ALU_retrofeCustomCores and CoinOPS To be Used Directly from the AtGames Legends Ultimate through USB Non-Root. Uses the RetroFE Rockchip 3328 build walknight.
 
 Update 5/28/2020
  - As of firmware 4.21.0, this no longer works with the latest firmware.
